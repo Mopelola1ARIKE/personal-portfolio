@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppins', sans-serif;
+}
+nav{
+    /**background-color: aqua;**/
+}
+nav ul{
+    /**background-color: blue;**/
+    margin: auto 50px;
+    }
+nav ul li{
+    color: white;
+    display: inline;
+    margin: 50px 10px 50px 150px;
+    }
+.header{
+    background-color: rgb(20, 68, 20);
+    padding: 25px 25px;
+}
+.main{
+    background-image: url(bg.png);
+    padding: 300px 200px 500px 200px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 4em;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
+.contact{
+    background-color: grey;
+}
